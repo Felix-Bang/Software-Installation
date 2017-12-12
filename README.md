@@ -3,7 +3,6 @@
 ## Reflector
 -------------------------------------------------
 1. 下载[Reflector](https://www.red-gate.com/dynamic/products/dotnet-development/reflector/download);
-     ![Install](/Image/ReflectorInstall.png)
 
 2. 破解
     * 运行注册机，点击 Generate 获得序列号
