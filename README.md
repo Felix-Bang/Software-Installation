@@ -29,10 +29,10 @@
 2. 双击安装包，默认安装即可；
 
 ## easyegui安装
-1. 下载[easyegui](http://easygui.sourceforge.net/)
+1. 下载[easyegui](http://easygui.sourceforge.net/)  
         ![Download](/Image/easygui/easyguiDownload.png)
 
-2. 解压安装文件
+2. 解压安装文件  
         ![Install](/Image/easygui/easyguiInstall.png)
 
 ## 为Python配置easygui
